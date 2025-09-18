@@ -20,7 +20,7 @@ class AkshatPaul {
   }
   
   getVibes() {
-    return ["🎯 Problem solver", "🌙 Night owl coder", "🎮 Gamer at heart", "🚀 Always shipping"];
+    return ["🎯 Problem solver", "🌙 Night owl (lie) coder", "Boring", "🚀 Sometimes  Always shipping"];
   }
 }
 ```
