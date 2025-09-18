@@ -60,17 +60,20 @@ class AkshatPaul {
 
 ---
 
-## 📈 *GitHub Wrapped (No Rate Limits, We Promise)*
+## 📈 *GitHub Wrapped (Actually Working Edition)*
 
 <div align="center">
 
-<!-- Using GitHub's native stats (no rate limits) -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshat2508&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+<!-- Working GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat2508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshat2508&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<!-- Activity graph with no rate limits -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat2508&theme=redical&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=akshat2508&theme=tokyonight&hide_border=true)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat2508&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
 
 </div>
 
@@ -81,13 +84,13 @@ class AkshatPaul {
 <div align="center">
 
 ```
-                    ╭─────────────────╮
-                    │  Current Status │
-                    ╰─────────────────╯
-                           🔮
-                    Writing bugs that
-                    look like features
-                           ✨
+              ╭─────────────────╮
+              │  Current Status │
+              ╰─────────────────╯
+                       🔮
+               Writing bugs that
+               look like features
+                      ✨
 ```
 
 ### 🌈 *Tech Stack Visualization*
@@ -124,7 +127,7 @@ class AkshatPaul {
   
   ### *"I don't create bugs, I develop unexpected features"*
   
-  [![Visitor Count](https://visitcount.itsvg.in/api?id=akshat2508&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  ![Profile Views](https://komarev.com/ghpvc/?username=akshat2508&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
