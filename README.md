@@ -1,4 +1,7 @@
-# 👽 Akshat Paul
+<div align="center">
+
+## 👽 Akshat Paul
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Self-taught+dev+who+Googles+everything;Turning+ideas+into+reality%2C+one+line+at+a+time;Sometimes+I+code%2C+sometimes+I+touch+grass" alt="Typing SVG" />
