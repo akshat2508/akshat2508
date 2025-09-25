@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👽 Akshat Paul!!!
+## 👽 Akshat Paul!!
 </div>
 
 <div align="center">
