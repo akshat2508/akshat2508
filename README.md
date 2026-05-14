@@ -3,16 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=280&section=header&text=Akshat%20Paul&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20System%20Architect&descAlignY=62&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=5000%2B+Users+on+Production+LMS+I+Built;57%25+User+Growth+via+SEO+Optimization;30%25+Load+Time+Reduction+via+DB+Tuning;Shipping+Real+Code+%E2%86%92+Not+Just+Tutorials;React+%7C+Angular+%7C+Node.js+%7C+Flutter+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
-</div>
 
 <br/>
 
@@ -247,7 +241,14 @@ Keep Learning Every Day    [█████████████████�
 ![Profile Views](https://komarev.com/ghpvc/?username=akshat2508&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:2d1b69,100:0d0221&height=140&section=footer&text=I+don't+just+write+code+%E2%80%94+I+build+systems+that+scale.&fontSize=18&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
 
+<br/>
 </div>
+
+
+
