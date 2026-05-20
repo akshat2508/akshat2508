@@ -208,7 +208,7 @@ Design-focused personal finance tracker with clean UI/UX, expense categorization
 |:---:|---|:---:|
 | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> | Oracle Data Platform 2025 Certified Foundations Associate | Apr 2026 |
 | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> | Full Stack Web Dev: Angular & Next.js — CSE Pathshala | July 2025 |
-| <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /> | Fundamental Course in Web Frameworks | Sept 2024 |
+| <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /> | Fundamental Course in Web Frameworks | August 2024 |
 
 </div>
 
