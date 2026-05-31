@@ -248,6 +248,7 @@ Keep Learning Every Day    [█████████████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:2d1b69,100:0d0221&height=140&section=footer&text=I+don't+just+write+code+%E2%80%94+I+build+systems+that+scale.&fontSize=18&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
 add new line
 <br/>
+<br/>
 </div>
 
 
